@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Perguruan Tinggi Swasta Jambi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="title_activity_stikom">Stikom</string>
+    <string name="title_activity_sejarah__stikom">Sejarah Stikom</string>
+    <string name="title_activity_visi__stikom">Visi dan Misi</string>
+    <string name="title_activity_jurusan_stikom">Jurusan</string>
+    <string name="title_activity_stemik">Stemik</string>
+    <string name="title_activity_sejarah_stemik">Sejarah Stemik</string>
+    <string name="title_activity_visi_stemik">Visi dan Misi</string>
+    <string name="title_activity_jurusan_stemik">Jurusan</string>
+
+</resources>

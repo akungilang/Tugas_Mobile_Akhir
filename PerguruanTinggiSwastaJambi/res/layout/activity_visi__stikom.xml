@@ -1,0 +1,32 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.ex.perguruantinggiswastajambi.Visi_StikomActivity" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VISI
+“Menjadi Sekolah Tinggi Ilmu Komputer Terbaik di Kopertis Wilayah X Pada Tahun 2020 dan Dikenal Baik Secara Nasional”.
+
+
+
+MISI
+
+Menyelenggarakan program pendidikan yang berkualitas dan efisien yang didukung oleh TIK.
+Menyelenggarakan program penelitian secara berkelanjutan yang menghasilkan produk-produk TIK yang relevan dengan kebutuhan masyarakat.
+
+Menyelenggarakan program pengabdian masyarakat melalui implementasi TIK yang dapat meningkatkan pengetahuan bahkan taraf hidup masyarakat.
+
+Mengembangkan sistem tatakelola perguruan tinggi yang menganut Good University Governance (GUG) dengan dukungan TIK.
+
+
+" />
+
+</RelativeLayout>

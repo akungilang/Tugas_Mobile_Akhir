@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.ex.perguruantinggiswastajambi"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="19" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuActivity"
+            android:label="@string/title_activity_menu" >
+        </activity>
+        <activity
+            android:name=".StikomActivity"
+            android:label="@string/title_activity_stikom" >
+        </activity>
+        <activity
+            android:name=".Sejarah_StikomActivity"
+            android:label="@string/title_activity_sejarah__stikom" >
+        </activity>
+        <activity
+            android:name=".Visi_StikomActivity"
+            android:label="@string/title_activity_visi__stikom" >
+        </activity>
+        <activity
+            android:name=".Jurusan_stikomActivity"
+            android:label="@string/title_activity_jurusan_stikom" >
+        </activity>
+        <activity
+            android:name=".StemikActivity"
+            android:label="@string/title_activity_stemik" >
+        </activity>
+        <activity
+            android:name=".Sejarah_stemikActivity"
+            android:label="@string/title_activity_sejarah_stemik" >
+        </activity>
+        <activity
+            android:name=".Visi_stemikActivity"
+            android:label="@string/title_activity_visi_stemik" >
+        </activity>
+        <activity
+            android:name=".Jurusan_stemikActivity"
+            android:label="@string/title_activity_jurusan_stemik" >
+        </activity>
+    </application>
+
+</manifest>
